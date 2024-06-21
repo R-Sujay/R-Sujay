@@ -13,11 +13,9 @@
     </tr>
     <tr>
         <td class="emoji-cell">
-          <br/>
             <a href="https://sujay-r.vercel.app/">🌐</a>
         </td>
         <td class="emoji-cell">
-          <br/>
             <a href="https://sujay-r.vercel.app/resume">📃</a>
         </td>
     </tr>
