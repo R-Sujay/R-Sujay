@@ -1,10 +1,10 @@
-# ‼️Sujay Rajesh - Full Stack Developer
-
 <style>
 .emoji-cell {
   text-align: center;
 }
 </style>
+
+# ‼️Sujay Rajesh - Full Stack Developer
 
 - 🔭 Working on **Freelancing Projects**
 - 🌱 Learning **Machine Learning**
