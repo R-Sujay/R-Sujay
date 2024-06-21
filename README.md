@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about **DevOps, UI/UX Designing, **
 - 📫 How to reach me: ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
