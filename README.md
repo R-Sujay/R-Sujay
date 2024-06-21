@@ -1,12 +1,12 @@
 ## ‼️Sujay Rajesh
 
-**R-Sujay/R-Sujay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 Working on **Freelancing Projects**
 - 🌱 Learning **Machine Learning** 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on **Enterprise Projects**
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about **DevOps, UI/UX Designing, **
 - 📫 How to reach me: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
