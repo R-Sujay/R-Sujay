@@ -1,9 +1,3 @@
-<style>
-.emoji-cell {
-  text-align: center;
-}
-</style>
-
 # ‼️Sujay Rajesh - Full Stack Developer
 
 - 🔭 Working on **Freelancing Projects**
@@ -19,9 +13,11 @@
     </tr>
     <tr>
         <td class="emoji-cell">
+          <br/>
             <a href="https://sujay-r.vercel.app/">🌐</a>
         </td>
         <td class="emoji-cell">
+          <br/>
             <a href="https://sujay-r.vercel.app/resume">📃</a>
         </td>
     </tr>
