@@ -15,10 +15,10 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td>
-            <a href="https://sujay-r.vercel.app/">🌐</a>
+            <a href="https://sujay-r.vercel.app/" style="text-align: center;">🌐</a>
         </td>
         <td>
-            <a href="https://sujay-r.vercel.app/resume">📃</a>
+            <a href="https://sujay-r.vercel.app/resume" style="text-align: center;">📃</a>
         </td>
     </tr>
 </table>
