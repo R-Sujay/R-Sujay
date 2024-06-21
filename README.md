@@ -10,6 +10,7 @@
     <tr>
         <th>My Website</th>
         <th>My Resume</th>
+        <th>My Upwork Profile</th>
     </tr>
     <tr>
         <td class="emoji-cell">
@@ -17,6 +18,9 @@
         </td>
         <td class="emoji-cell">
             <a href="https://sujay-r.vercel.app/resume">📃</a>
+        </td>
+          <td class="emoji-cell">
+            <a href="https://www.upwork.com/freelancers/~010c8e53bf15ecc34a">💼</a>
         </td>
     </tr>
 </table>
