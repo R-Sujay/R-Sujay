@@ -14,13 +14,13 @@
     </tr>
     <tr>
         <td class="emoji-cell">
-            <a href="https://sujay-r.vercel.app/">🌐</a>
+            <a target="_blank" href="https://sujay-r.vercel.app/">🌐</a>
         </td>
         <td class="emoji-cell">
-            <a href="https://sujay-r.vercel.app/resume">📃</a>
+            <a target="_blank" href="https://sujay-r.vercel.app/resume">📃</a>
         </td>
           <td class="emoji-cell">
-            <a href="https://www.upwork.com/freelancers/~010c8e53bf15ecc34a">💼</a>
+            <a target="_blank" href="https://www.upwork.com/freelancers/~010c8e53bf15ecc34a">💼</a>
         </td>
     </tr>
 </table>
