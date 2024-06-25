@@ -33,7 +33,7 @@
 ## Databases
 
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234EA942.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Sanity](https://img.shields.io/badge/sanity-%2338B2AC.svg?style=for-the-badge&logo=sanity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%2300C7B7.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+![Sanity](https://img.shields.io/badge/sanity-e94737.svg?style=for-the-badge&logo=sanity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ## Tech
 
