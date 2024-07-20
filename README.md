@@ -49,6 +49,6 @@
 
 ## Hire At
 
-![Upwork](https://img.shields.io/badge/Upwork-%234EA942.svg?style=for-the-badge&logo=Upwork&logoColor=white)
+[![Upwork](https://img.shields.io/badge/Upwork-%234EA942.svg?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010c8e53bf15ecc34a?mp_source=share)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia)
