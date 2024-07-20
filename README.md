@@ -20,7 +20,7 @@
             <a href="https://sujay-r.vercel.app/resume">📃</a>
         </td>
           <td class="emoji-cell">
-            <a href="https://www.upwork.com/freelancers/~010c8e53bf15ecc34a">💼</a>
+            <a href="https://www.upwork.com/freelancers/~010c8e53bf15ecc34a?mp_source=share">💼</a>
         </td>
     </tr>
 </table>
